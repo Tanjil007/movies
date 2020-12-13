@@ -1,2 +1,2 @@
-# movies
+# movies-recommender
 Created with CodeSandbox
